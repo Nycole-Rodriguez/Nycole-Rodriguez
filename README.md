@@ -1,8 +1,8 @@
 ## Olá, eu sou a Nycole 🖖
 
-- 📖 Sou aluna inciante programação.
+- 📖 Sou aluna inciante em programação.
 - 📚 Back-end developer.
-- 🌺 voltado a estudo e testes 
+- 🌺 Voltado a estudo e testes 
 
  <div>
   <a href= "https://www.linkedin.com/in/nycole-pio-rodrigues-908b08260/">
