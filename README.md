@@ -2,7 +2,7 @@
 
 - 📖 Sou aluna inciante em programação.
 - 📚 Back-end developer.
-- 🌺 Voltado a estudo e testes 
+- 🌺 Perfil voltado a estudo e testes 
 
  <div>
   <a href= "https://www.linkedin.com/in/nycole-pio-rodrigues-908b08260/">
